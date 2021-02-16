@@ -5752,5 +5752,4 @@ let api = function Binance( options = {} ) {
         }
     };
 }
-module.exports = api;
 //https://github.com/binance-exchange/binance-official-api-docs
